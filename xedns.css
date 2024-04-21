@@ -1,17 +1,17 @@
 body {
   background-color: #29700a;
+  margin: 0;
 }
 .bg-box {
   background-image: url(pole-zelen-trava-dom-derevya.webp),
   url(https://vignette.wikia.nocookie.net/mashaandthebear/images/e/e0/%D0%81%D0%B6%D0%B8%D0%BA.png/revision/latest?cb=20180209130328&path-prefix=ru),
   url(faff.png), url(green-png-44873.png), url(lamp-png-34914.png);
 
-background-size: 2682px 1710px, 260px 200px, 260px 200px, 1024px 819px, 199px 312px;
+background-size: 30%, 10%, 10%, 15%, 5%;
 
 background-repeat: no-repeat, repeat-y, repeat-y, repeat-x, repeat-x;
-  background-attachment: fixed;
 
-  height: 10000px;
-  width: 10000px;
+  height: 100vh;
+  width: 100vw;
   background-position: 50% 50%, 0% 100%, 100% 0, 0% 100%, 100% 0%;
 }
